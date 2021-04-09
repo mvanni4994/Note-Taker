@@ -1,6 +1,6 @@
   
 const fs = require("fs");
-var notes = require("./db/db.json")
+var notes = require("../db/db.json");
 
 module.exports = (app) => {
         app.get("/api/notes", function(req, res) {
