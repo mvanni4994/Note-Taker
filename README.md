@@ -12,7 +12,7 @@ On the main page, click "Get Started", you will be redirected to a page where yo
 
 ## App Features
 
-![image](/public/Capture.jpg)
+![image](Capture.jpg)
 
 ## Technology Used
 JavaScript, JQuery, HTML, CSS, npm i for dependencies
