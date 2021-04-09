@@ -8,7 +8,7 @@ Deployed App: https://radiant-journey-99657.herokuapp.com/
 Github Repository: https://github.com/mvanni4994
 
 ## Instructions
-On the main page, click "Get Started", you will be redirected to a page where you can take notes. Enter a title, followed by text in the body. Once text has been entered, a save icon will appear in the upper right corner of the application. Saved notes will appear on the left bar for future editing need be.
+On the main page, click "Get Started", you will be redirected to a page where you can take notes. Enter a title, followed by text in the body. Once text has been entered, a save icon will appear in the upper right corner of the application. Saved notes will appear on the left bar where you can edit and delete, need be.
 
 ## App Features
 
